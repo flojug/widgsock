@@ -31,7 +31,7 @@ First define a simple web page which contains a link to the library (see below).
 
 Then run the ruby application which contains the code to run.
 
-  cd examples
+	cd examples
 	ruby app2.rb
 
 Then point your browser to the HTML page and the application should run in your browser.
